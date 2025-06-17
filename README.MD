@@ -29,9 +29,9 @@ Projeto que utiliza IA e prompts otimizados para criação automatizada de podca
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro gerado via Gemini
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- ChatGPT Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
