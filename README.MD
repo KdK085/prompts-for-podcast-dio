@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/ChatGPT Image 17 de jun. de 2025, 12_20_33.png"
     width="300"
 />
 </p>
