@@ -22,8 +22,8 @@ Projeto que utiliza IA e prompts otimizados para criação automatizada de podca
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Gemini](https://gemini.google.com/) 
+- [ChatGPT](https://chatgpt.com/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
