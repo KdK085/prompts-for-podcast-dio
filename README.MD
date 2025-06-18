@@ -16,7 +16,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso Microsoft 50 Anos - Prompts Inteligentes
+ > ℹ️ **NOTE:** Este repositório foi desenvolvido durante o curso Microsoft 50 Anos - Prompts Inteligentes
 
 Projeto que utiliza IA e prompts otimizados para criação automatizada de podcasts.
 
