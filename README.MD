@@ -66,4 +66,4 @@ Projeto que utiliza IA e prompts otimizados para criação automatizada de podca
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [ Alexandre Pereira ](https://github.com/KdK085)
